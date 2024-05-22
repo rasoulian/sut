@@ -1,7 +1,7 @@
 # HADI
 
 
-Mordad WorkingDays (3.5)
+Mordad WorkingHours (3.5)
 ---------------------
 
 | Day           | FromTime | ToTime   | Total  |
